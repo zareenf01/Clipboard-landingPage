@@ -2,7 +2,7 @@
 
 ## Overview
 
-Created this Clipboard landing page from frontend mentor using TailwindCSS
+Created this Clipboard landing page from frontend mentor challenge using TailwindCSS
 
 ### The challenge
 
@@ -29,6 +29,7 @@ Users should be able to:
 
 ### Connect Here
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - https://linktr.ee/01zareen
+- Twitter - [@ZareenFatima01](https://twitter.com/ZareenFatima01)
+- Frontend Mentor - [@zareenf01](https://www.frontendmentor.io/profile/zareenf01)
+
